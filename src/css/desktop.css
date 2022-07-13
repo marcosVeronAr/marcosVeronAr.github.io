@@ -1,0 +1,26 @@
+.main-container {
+    width: 100vw;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.articulo-vida {
+    max-height: 80vh;
+    max-width: 800px;
+}
+
+.articulo-vida:hover{
+    transform: scale(1.05);
+}
+
+.nav {
+    margin-right: 2rem;
+}
+
+.articulo-vida h2 {
+    font-size: 4vh;
+}
+.articulo-vida p {
+    font-size: 2vh;
+}
